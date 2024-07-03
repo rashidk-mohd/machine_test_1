@@ -32,7 +32,6 @@ class UserDetailsScreen extends StatelessWidget {
                 fontSize: 16.0,
                 fontWeight: FontWeight.bold,
               ),
-              // maxLines: null ,
               overflow: TextOverflow.ellipsis,
             ),
             const SizedBox(height: 4.0),
@@ -42,7 +41,6 @@ class UserDetailsScreen extends StatelessWidget {
                 fontSize: 16.0,
                 fontWeight: FontWeight.bold,
               ),
-              // maxLines: null ,
               overflow: TextOverflow.ellipsis,
             ),
             Center(
@@ -86,7 +84,6 @@ class UserDetailsScreen extends StatelessWidget {
                           fontSize: 16.0,
                           fontWeight: FontWeight.bold,
                         ),
-                        // maxLines: null ,
                         overflow: TextOverflow.ellipsis,
                       ),
                       const SizedBox(
@@ -98,7 +95,6 @@ class UserDetailsScreen extends StatelessWidget {
                           fontSize: 16.0,
                           fontWeight: FontWeight.bold,
                         ),
-                        // maxLines: null ,
                         overflow: TextOverflow.ellipsis,
                       ),
                       const SizedBox(
@@ -110,7 +106,6 @@ class UserDetailsScreen extends StatelessWidget {
                           fontSize: 16.0,
                           fontWeight: FontWeight.bold,
                         ),
-                        // maxLines: null ,
                         overflow: TextOverflow.ellipsis,
                       ),
                       const SizedBox(
@@ -122,7 +117,6 @@ class UserDetailsScreen extends StatelessWidget {
                           fontSize: 16.0,
                           fontWeight: FontWeight.bold,
                         ),
-                        // maxLines: null ,
                         overflow: TextOverflow.ellipsis,
                       ),
                       const SizedBox(
